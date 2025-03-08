@@ -41,3 +41,4 @@ Afghan Coin will be distributed via airdrops to users participating in our YouTu
 - [YouTube Channel](<Your YouTube Channel URL>)
 
 Thank you for supporting Afghan Coin and helping to empower women in Afghanistan!
+د
