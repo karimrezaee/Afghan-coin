@@ -1,0 +1,13 @@
+"chainId": 101,
+  "address":63KEGSVdYqatAmb9zWgf1FWw8jrCYPCrVvKpF3yM8GnK
+  "symbol": "Afghan",
+  "name": "Afghan.coin",
+  "decimals":9,
+  "logoURI": "https://raw.githubusercontent.com/karimrezaee/Afghan-coin/main/logo.png",
+  "tags": ["utility-token"],
+  "extensions": {
+    "website": "https://github.com/karimrezaee/Afghan-coin",
+    "twitter": "",
+    "telegram": "",
+    "youtube": "https://www.youtube.com/@Afghan_coin",
+    "tiktok": "https://www.tiktok.com/@afghancoinsolana"
