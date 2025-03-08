@@ -1,9 +1,9 @@
 {
   "chainId": 101,
-  "address": "EGYYSJAZgk6RqXMbG13UTkhzPiZnpkJ4KxdP3PeKDk2m",
+  "address63KEGSVdYqatAmb9zWgf1FWw8jrCYPCrVvKpF3yM8GnK..
   "symbol": "Afghan",
-  "name": "Afghanistan",
-  "decimals": 1,
+  "name": "Afghan.coin",
+  "decimals": 9,
   "logoURI": "https://raw.githubusercontent.com/karimrezaee/Afghan-coin/main/logo.png",
   "tags": ["utility-token"],
   "extensions": {
